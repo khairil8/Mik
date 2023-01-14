@@ -7,27 +7,27 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.Owner = ['60109102984','601124024797']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['60109102984']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.ownertag = ['60109102984']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Miku"
 global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.author = "By: Khairil春"
+global.OwnerName = "Khairil春"
+global.BotSourceCode = "esce? Cari sending :v" // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
+global.prefa = ['.'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
-global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.location = "Sabah, Malaysia"
+global.reactmoji = "🌚"
+global.themeemoji = "🗿"
+global.vidmenu = { url: 'https://telegra.ph/file/0303b8f81000ddb30157b.mp4' }
+global.websitex = "https://linkfly.to/Khairil"
 global.lolhuman = "KaysaS"
 
 
